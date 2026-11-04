@@ -3,7 +3,7 @@
 I started writing stories long before I wrote my first line of Kotlin.
 Somewhere along the way I realised both crafts ask the same question: **how do you build a world that feels alive to the person inside it?**
 
-By day, I answer it with code, building Android apps used by thousands of people at **Mercadona IT** in Valencia 🇪🇸.
+By day, I answer it with code, building Android apps used by people at **Mercadona IT** in Valencia 🇪🇸.
 By night, I answer it with ink, writing epic fantasy set in my own universe, *Aezara*. ✍️
 
 ---
