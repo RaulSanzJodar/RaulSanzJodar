@@ -23,11 +23,7 @@ By night, I answer it with ink, writing epic fantasy set in my own universe, *Ae
 
 Lately I'm all in on **Kotlin Multiplatform**: one codebase, several screens, and an architecture that has to hold up in all of them.
 
-- **A KMP app for an online community**, built side by side with its web version and shared API.
-- **An app for readers to discover places worth reading in**: bookshops, libraries, cafés and literary events.
-- **Tools for local game stores** to run their TCG events and tables, together with two developer friends.
-
-Most of this lives in private repos for now, but one piece is coming out in the open:
+I'm building KMP apps for **readers, online communities and local businesses**, mostly in private repos for now. One piece is coming out in the open:
 
 > 🧱 **KMP architecture sample** *(coming soon)*: the modular, Clean-Architecture setup I use in my own apps, stripped down into a public template you can clone, study or argue with.
 
